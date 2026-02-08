@@ -1,0 +1,15 @@
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\bin\Debug\net10.0\TestProject2.exe
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\bin\Debug\net10.0\TestProject2.deps.json
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\bin\Debug\net10.0\TestProject2.runtimeconfig.json
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\bin\Debug\net10.0\TestProject2.dll
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\bin\Debug\net10.0\TestProject2.pdb
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.AssemblyInfo.cs
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.sourcelink.json
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.dll
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\refint\TestProject2.dll
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.pdb
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\TestProject2.genruntimeconfig.cache
+C:\Users\cfuen\source\repos\FirstDotNetConsoleApp\CsharpProjects\TestProject2\obj\Debug\net10.0\ref\TestProject2.dll
