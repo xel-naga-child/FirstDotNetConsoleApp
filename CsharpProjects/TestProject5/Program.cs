@@ -60,3 +60,19 @@ foreach (int items in inventory)
 }
 
 Console.WriteLine($"We have {sum} items in inventory.");
+
+
+//The exercise
+
+string[] exerciseArray = new string[8]
+{
+    "B123","C234","A345","C15","B177","G3003","C235","B179"
+};
+
+foreach (string word in exerciseArray)
+{
+    if (word.StartsWith("B"))
+    {
+        Console.WriteLine("The name starts with 'B'!");
+    }
+}
