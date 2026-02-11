@@ -12,3 +12,17 @@ Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
 fraudulentOrderIDs[0] = "F000";
 
 Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
+
+//new initialization
+string[] beautifulWords = [ "Sofía", "Beatiful", "Waitress" ];
+
+Console.WriteLine($"First: {beautifulWords[0]}");
+Console.WriteLine($"First: {beautifulWords[1]}");
+Console.WriteLine($"First: {beautifulWords[2]}");
+
+//the old one
+string[] beautifulWords2 = { "Sofía", "Beatiful", "Waitress" };
+
+Console.WriteLine($"First: {beautifulWords2[0]}");
+Console.WriteLine($"First: {beautifulWords2[1]}");
+Console.WriteLine($"First: {beautifulWords2[2]}");
