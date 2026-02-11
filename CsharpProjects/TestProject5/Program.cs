@@ -73,6 +73,6 @@ foreach (string word in exerciseArray)
 {
     if (word.StartsWith("B"))
     {
-        Console.WriteLine("The name starts with 'B'!");
+        Console.WriteLine($"The name {word} starts with 'B'!");
     }
 }
