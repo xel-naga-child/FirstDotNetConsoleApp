@@ -45,3 +45,18 @@ foreach (int items in inventory)
 }
 
 Console.WriteLine($"We have {sum} items in inventory.");
+
+
+//Another way
+
+int[] inventory2 = { 200, 450, 700, 175, 250 };
+int sum2 = 0;
+int bin = 0;
+foreach (int items in inventory)
+{
+    sum2 += items;
+    bin++;
+    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+}
+
+Console.WriteLine($"We have {sum} items in inventory.");
