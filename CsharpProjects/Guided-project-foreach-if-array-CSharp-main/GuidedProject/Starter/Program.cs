@@ -9,20 +9,32 @@ int [] loganScores = new int[] {90, 95, 87, 88, 96};
 
 // Student names
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
+int[] studentScores = new int[10];
 
 foreach (string name in studentNames)
 {
-    Console.WriteLine($"{name}");
+    string currentStudent = name;
+
+   
+    if (currentStudent == "Sophia")
+        studentScores = sophiaScores;
+
+    else if (currentStudent == "Andrew")
+        studentScores = andrewScores;
+
+    else if (currentStudent == "Emma")
+        studentScores = emmaScores;
+
+    else if (currentStudent == "Logan")
+        studentScores = loganScores;
+
     int sophiaSum = 0;
-
     decimal sophiaScore;
-
+    
     foreach (int score in sophiaScores)
     {
         sophiaSum += score;
-
     }
-
     sophiaScore = (decimal)sophiaSum / currentAssignments;
 
     Console.WriteLine("Student\t\tGrade\n");
