@@ -13,3 +13,12 @@ if (found)
     Console.WriteLine("Set contains 42");
 
 Console.WriteLine($"Total: {total}");
+
+int valor = 5;
+if (valor > 0)
+{
+    int entero = 6;
+
+}
+
+valor +=entero;
