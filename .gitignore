@@ -1,0 +1,62 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+
+# Visual Studio cache/options
+.vs/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# NuGet restore
+packages/
+.nuget/
+
+# Publish output
+publish/
+
+# Azure
+*.PublishSettings
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Dotnet local tools
+.dotnet/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup & temporary files
+*.tmp
+*.temp
