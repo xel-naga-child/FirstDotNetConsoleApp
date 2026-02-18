@@ -1,8 +1,7 @@
 ﻿Random random = new();
 
-int value = random.Next(0, 1);
+int value = random.Next(0, 2);
 
-if (value > 1)
-    Console.WriteLine("head");
-else
-    Console.WriteLine("tails");
+var result = value == 1 ? "head" : "tails";
+
+Console.WriteLine(result);
