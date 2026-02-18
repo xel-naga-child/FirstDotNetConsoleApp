@@ -1,6 +1,8 @@
-﻿int a = 7;
-int b = 6;
-Console.WriteLine(a != b); // output: True
-string s1 = "Hello";
-string s2 = "Hello";
-Console.WriteLine(s1 != s2); // output: False
+﻿Random random = new();
+
+int value = random.Next(0, 1);
+
+if (value > 1)
+    Console.WriteLine("head");
+else
+    Console.WriteLine("tails");
