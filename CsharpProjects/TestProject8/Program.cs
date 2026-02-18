@@ -1,7 +1,3 @@
-﻿Random random = new();
-
-int value = random.Next(0, 2);
-
-var result = value == 1 ? "head" : "tails";
-
-Console.WriteLine(result);
+﻿Random coin = new Random();
+int flip = coin.Next(0, 2);
+Console.WriteLine((flip == 0) ? "heads" : "tails");
