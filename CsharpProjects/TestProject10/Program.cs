@@ -1,5 +1,6 @@
 ﻿string[] names = { "Alex", "Eddie", "David", "Michael" };
-for (int i = names.Length - 1; i >= 0; i--)
+foreach (var name in names)
 {
-    Console.WriteLine(names[i]);
+    // Can't do this:
+    if (name == "David") name = "Sammy";
 }
