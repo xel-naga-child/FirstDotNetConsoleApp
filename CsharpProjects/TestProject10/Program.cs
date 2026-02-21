@@ -1,5 +1,8 @@
-﻿string[] names = { "Alex", "Eddie", "David", "Michael" };
-for (int i = 0; i < names.Length; i++)
-    if (names[i] == "David") names[i] = "Sammy";
+﻿for (int i = 1; i <= 100; i++)
+{
+    if (i % 3 == 0 && i % 5 == 0) Console.WriteLine($"FizzBuzz - {i}");
+    else if (i % 3 == 0) Console.WriteLine($"Fizz - {i}");
+    else if (i % 5 == 0) Console.WriteLine($"Buzz - {i}");
+    else Console.WriteLine(i);
 
-foreach (var name in names) Console.WriteLine(name);
+}
