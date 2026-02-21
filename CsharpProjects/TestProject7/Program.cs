@@ -19,6 +19,6 @@ if (valor > 0)
 {
     int entero = 6;
 
-}
+} 
 
 valor +=entero;
